@@ -1,6 +1,6 @@
 title: "我的个人博客"
 description: "记录我的学习与成长"
-author-name: "chenmin" # add your name
+author: 
 url: "chen-min-jie.github.io"
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
