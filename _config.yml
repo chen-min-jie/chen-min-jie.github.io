@@ -1,16 +1,19 @@
-title: "我的个人博客"
-description: "记录我的学习与成长"
-author: 
-url: "chen-min-jie.github.io"
+title: 个人博客
+description: 哈哈哈
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author-img: ".\assets\img\touxiang.jpg" # 确保你的头像文件已上传到仓库
-about-author: "我是一个傻逼二次元"
+author: 陈忞
+author-img: david-freeman.jpg # add your photo
+about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+social-twitter: # add your Twitter handle
+social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
-social-email: "2428600391@qq.com"
+social-linkedin: # add your Linkedin handle
+social-email: # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
