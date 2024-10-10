@@ -3,12 +3,12 @@ description: "记录我的学习与成长"
 author: "陈忞"
 url: "chen-min-jie.github.io"
 permalink: ':title/'
-baseurl: "index.html" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: David Freeman # add your name
-author-img: "touxiang.jpg" # 确保你的头像文件已上传到仓库
+author-img: "/assets/img/touxiang.jpg" # 确保你的头像文件已上传到仓库
 about-author: 我是一个傻逼二次元
 social-github: artemsheludko # add your Github handle
 social-email: 2428600391@qq.com
