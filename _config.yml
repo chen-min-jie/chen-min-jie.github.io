@@ -1,6 +1,6 @@
 title: "我的个人博客"
 description: "记录我的学习与成长"
-author: chenmin # add your name
+author: "chenmin" # add your name
 url: "chen-min-jie.github.io"
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -8,9 +8,9 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author-img: ".\assets\img\touxiang.jpg" # 确保你的头像文件已上传到仓库
-about-author: 我是一个傻逼二次元
+about-author: "我是一个傻逼二次元"
 social-github: artemsheludko # add your Github handle
-social-email: 2428600391@qq.com
+social-email: "2428600391@qq.com"
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
