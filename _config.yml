@@ -1,7 +1,7 @@
 title: 个人博客
 description: 哈哈哈
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "index.html" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
