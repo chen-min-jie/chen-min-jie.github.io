@@ -8,7 +8,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: David Freeman # add your name
-author-img: "/assets/img/touxiang.jpg" # 确保你的头像文件已上传到仓库
+author-img: "./assets/img/touxiang.jpg" # 确保你的头像文件已上传到仓库
 about-author: 我是一个傻逼二次元
 social-github: artemsheludko # add your Github handle
 social-email: 2428600391@qq.com
