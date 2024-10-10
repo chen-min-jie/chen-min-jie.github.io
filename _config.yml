@@ -3,7 +3,7 @@ description: "记录我的学习与成长"
 author: "陈忞"
 url: "chen-min-jie.github.io"
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
